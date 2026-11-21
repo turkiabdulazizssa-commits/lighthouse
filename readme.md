@@ -482,3 +482,4 @@ See [Contributing](./CONTRIBUTING.md) to get started.
   <b>Lighthouse</b>, ˈlītˌhous (n): a <s>tower or other structure</s> tool containing a beacon light
   to warn or guide <s>ships at sea</s> developers.
 </p>
+https://developer.chrome.com/docs/lighthouse/overview?hl=ar#psi
